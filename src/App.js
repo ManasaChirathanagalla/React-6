@@ -46,7 +46,7 @@ export default function app(){
         <span id="id5"><a id="id8" href="https://www.instagram.com/manasa_chirathanagalla/">Instagram</a></span>
         <a href="https://www.instagram.com/manasa_chirathanagalla/"><img src={insta} alt="Instagram logo" height={50}/></a>
         <span id="id5"><a id="id8" href="https://github.com/ManasaChirathanagalla ">Github</a></span>
-        <a href="ttps://github.com/ManasaChirathanagalla"><img src={github} alt="Instagram logo" height={50}/></a>
+        <a href="https://github.com/ManasaChirathanagalla"><img src={github} alt="Instagram logo" height={50}/></a>
       </div>
     </div>
   );
